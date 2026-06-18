@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6903",
+  "folder": "YouTube__watch_20260618014445_dcdc17",
+  "base_name": "The_Only_25_Exercises_You_Ever_Need_S6rqpxVGKZ4_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Gittts2/releases/tag/co-releases-v1-6903",
+  "files": [
+    {
+      "name": "The_Only_25_Exercises_You_Ever_Need_S6rqpxVGKZ4_1080p.mp4",
+      "url": "https://github.com/impboy12/Gittts2/releases/download/co-releases-v1-6903/The_Only_25_Exercises_You_Ever_Need_S6rqpxVGKZ4_1080p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Gittts2/releases/assets/450769436",
+      "id": 450769436,
+      "size": 309081408,
+      "download_count": 0
+    }
+  ]
+}
