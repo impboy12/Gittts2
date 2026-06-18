@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2042",
+  "folder": "YouTube__watch_20260618014651_61a0ec",
+  "base_name": "How_To_Get_Jacked_For_10_Day_(Healthy_Meals_On_A_Budget)_NS_GeXoboo4_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Gittts2/releases/tag/co-releases-v1-2042",
+  "files": [
+    {
+      "name": "How_To_Get_Jacked_For_10_Day_.Healthy_Meals_On_A_Budget._NS_GeXoboo4_1080p.mp4",
+      "url": "https://github.com/impboy12/Gittts2/releases/download/co-releases-v1-2042/How_To_Get_Jacked_For_10_Day_.Healthy_Meals_On_A_Budget._NS_GeXoboo4_1080p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Gittts2/releases/assets/450770656",
+      "id": 450770656,
+      "size": 354445593,
+      "download_count": 0
+    }
+  ]
+}
