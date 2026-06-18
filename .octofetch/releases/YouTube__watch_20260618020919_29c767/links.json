@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-9024",
+  "folder": "YouTube__watch_20260618020919_29c767",
+  "base_name": "CARBS_BEFORE_BED_Are_They_Making_You_Fat_(What_The_Science_Says)_fD79Udsr7OQ_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Gittts2/releases/tag/co-releases-v1-9024",
+  "files": [
+    {
+      "name": "CARBS_BEFORE_BED_Are_They_Making_You_Fat_.What_The_Science_Says._fD79Udsr7OQ_1080p.mp4",
+      "url": "https://github.com/impboy12/Gittts2/releases/download/co-releases-v1-9024/CARBS_BEFORE_BED_Are_They_Making_You_Fat_.What_The_Science_Says._fD79Udsr7OQ_1080p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Gittts2/releases/assets/450784170",
+      "id": 450784170,
+      "size": 71647294,
+      "download_count": 0
+    }
+  ]
+}
