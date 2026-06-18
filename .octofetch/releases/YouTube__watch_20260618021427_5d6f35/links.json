@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1180",
+  "folder": "YouTube__watch_20260618021427_5d6f35",
+  "base_name": "How_To_Build_a_Thick_Back_With_Perfect_Rowing_Technique_(Pendlay_Row_H_axoeDmW0oAY_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Gittts2/releases/tag/co-releases-v1-1180",
+  "files": [
+    {
+      "name": "How_To_Build_a_Thick_Back_With_Perfect_Rowing_Technique_.Pendlay_Row_H_axoeDmW0oAY_720p.mp4",
+      "url": "https://github.com/impboy12/Gittts2/releases/download/co-releases-v1-1180/How_To_Build_a_Thick_Back_With_Perfect_Rowing_Technique_.Pendlay_Row_H_axoeDmW0oAY_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Gittts2/releases/assets/450787603",
+      "id": 450787603,
+      "size": 39775881,
+      "download_count": 0
+    }
+  ]
+}
