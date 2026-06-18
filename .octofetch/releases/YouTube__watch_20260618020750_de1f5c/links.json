@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4305",
+  "folder": "YouTube__watch_20260618020750_de1f5c",
+  "base_name": "How_Much_Protein_Can_You_Absorb_In_One_Meal_(20g_30g_100g_)_tJpdPYedWjc_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Gittts2/releases/tag/co-releases-v1-4305",
+  "files": [
+    {
+      "name": "How_Much_Protein_Can_You_Absorb_In_One_Meal_.20g_30g_100g_._tJpdPYedWjc_1080p.mp4",
+      "url": "https://github.com/impboy12/Gittts2/releases/download/co-releases-v1-4305/How_Much_Protein_Can_You_Absorb_In_One_Meal_.20g_30g_100g_._tJpdPYedWjc_1080p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Gittts2/releases/assets/450782765",
+      "id": 450782765,
+      "size": 84547786,
+      "download_count": 0
+    }
+  ]
+}
