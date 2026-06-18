@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5731",
+  "folder": "YouTube__watch_20260618021717_127a79",
+  "base_name": "Build_Bigger_Shoulders_With_Perfect_Training_Technique_(The_Overhead_P__RlRDWO2jfg_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Gittts2/releases/tag/co-releases-v1-5731",
+  "files": [
+    {
+      "name": "Build_Bigger_Shoulders_With_Perfect_Training_Technique_.The_Overhead_P__RlRDWO2jfg_1080p.mp4",
+      "url": "https://github.com/impboy12/Gittts2/releases/download/co-releases-v1-5731/Build_Bigger_Shoulders_With_Perfect_Training_Technique_.The_Overhead_P__RlRDWO2jfg_1080p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Gittts2/releases/assets/450789741",
+      "id": 450789741,
+      "size": 71232706,
+      "download_count": 0
+    }
+  ]
+}
