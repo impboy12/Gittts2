@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-9826",
+  "folder": "YouTube__watch_20260618015059_dc0c93",
+  "base_name": "The_Best_And_Worst_Back_Exercises_(Ranked_By_Science)_jLvqKgW-_G8_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Gittts2/releases/tag/co-releases-v1-9826",
+  "files": [
+    {
+      "name": "The_Best_And_Worst_Back_Exercises_.Ranked_By_Science._jLvqKgW-_G8_1080p.mp4",
+      "url": "https://github.com/impboy12/Gittts2/releases/download/co-releases-v1-9826/The_Best_And_Worst_Back_Exercises_.Ranked_By_Science._jLvqKgW-_G8_1080p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Gittts2/releases/assets/450772490",
+      "id": 450772490,
+      "size": 221809440,
+      "download_count": 0
+    }
+  ]
+}
