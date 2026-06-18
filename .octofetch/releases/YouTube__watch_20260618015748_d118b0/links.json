@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4326",
+  "folder": "YouTube__watch_20260618015748_d118b0",
+  "base_name": "The_3-2-1_Speaking_Trick_That_Forces_You_To_Stop_Rambling_5m-C5mwpmxU_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Gittts2/releases/tag/co-releases-v1-4326",
+  "files": [
+    {
+      "name": "The_3-2-1_Speaking_Trick_That_Forces_You_To_Stop_Rambling_5m-C5mwpmxU_1080p.mp4",
+      "url": "https://github.com/impboy12/Gittts2/releases/download/co-releases-v1-4326/The_3-2-1_Speaking_Trick_That_Forces_You_To_Stop_Rambling_5m-C5mwpmxU_1080p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Gittts2/releases/assets/450776701",
+      "id": 450776701,
+      "size": 70675063,
+      "download_count": 0
+    }
+  ]
+}
