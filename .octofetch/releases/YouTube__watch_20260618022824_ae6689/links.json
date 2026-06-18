@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5706",
+  "folder": "YouTube__watch_20260618022824_ae6689",
+  "base_name": "The_AI_Safety_Expert_These_Are_The_Only_5_Jobs_That_Will_Remain_In_203_UclrVWafRAI_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Gittts2/releases/tag/co-releases-v1-5706",
+  "files": [
+    {
+      "name": "The_AI_Safety_Expert_These_Are_The_Only_5_Jobs_That_Will_Remain_In_203_UclrVWafRAI_720p.mp4",
+      "url": "https://github.com/impboy12/Gittts2/releases/download/co-releases-v1-5706/The_AI_Safety_Expert_These_Are_The_Only_5_Jobs_That_Will_Remain_In_203_UclrVWafRAI_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Gittts2/releases/assets/450796546",
+      "id": 450796546,
+      "size": 299808863,
+      "download_count": 0
+    }
+  ]
+}
