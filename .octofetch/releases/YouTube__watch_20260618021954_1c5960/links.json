@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7543",
+  "folder": "YouTube__watch_20260618021954_1c5960",
+  "base_name": "How_To_Build_Bigger_Traps_Optimal_Training_Explained_C6sYjDFuq9I_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Gittts2/releases/tag/co-releases-v1-7543",
+  "files": [
+    {
+      "name": "How_To_Build_Bigger_Traps_Optimal_Training_Explained_C6sYjDFuq9I_1080p.mp4",
+      "url": "https://github.com/impboy12/Gittts2/releases/download/co-releases-v1-7543/How_To_Build_Bigger_Traps_Optimal_Training_Explained_C6sYjDFuq9I_1080p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Gittts2/releases/assets/450791025",
+      "id": 450791025,
+      "size": 96506892,
+      "download_count": 0
+    }
+  ]
+}
