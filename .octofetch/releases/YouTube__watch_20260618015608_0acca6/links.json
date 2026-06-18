@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5712",
+  "folder": "YouTube__watch_20260618015608_0acca6",
+  "base_name": "High_Protein_Diets_Cause_Bone_Loss_and_Kidney_Damage_(MYTH_BUSTED_with_91CxhNLmO_o_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Gittts2/releases/tag/co-releases-v1-5712",
+  "files": [
+    {
+      "name": "High_Protein_Diets_Cause_Bone_Loss_and_Kidney_Damage_.MYTH_BUSTED_with_91CxhNLmO_o_1080p.mp4",
+      "url": "https://github.com/impboy12/Gittts2/releases/download/co-releases-v1-5712/High_Protein_Diets_Cause_Bone_Loss_and_Kidney_Damage_.MYTH_BUSTED_with_91CxhNLmO_o_1080p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Gittts2/releases/assets/450775602",
+      "id": 450775602,
+      "size": 109119173,
+      "download_count": 0
+    }
+  ]
+}
