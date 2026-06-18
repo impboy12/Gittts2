@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2030",
+  "folder": "YouTube__watch_20260618020104_112f62",
+  "base_name": "The_Best_And_Worst_Shoulder_Exercises_SgyUoY0IZ7A_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Gittts2/releases/tag/co-releases-v1-2030",
+  "files": [
+    {
+      "name": "The_Best_And_Worst_Shoulder_Exercises_SgyUoY0IZ7A_1080p.mp4",
+      "url": "https://github.com/impboy12/Gittts2/releases/download/co-releases-v1-2030/The_Best_And_Worst_Shoulder_Exercises_SgyUoY0IZ7A_1080p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Gittts2/releases/assets/450778860",
+      "id": 450778860,
+      "size": 245005903,
+      "download_count": 0
+    }
+  ]
+}
