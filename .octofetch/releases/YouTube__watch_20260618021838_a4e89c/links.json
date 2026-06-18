@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6249",
+  "folder": "YouTube__watch_20260618021838_a4e89c",
+  "base_name": "How_To_Build_Capped_Shoulders_Optimal_Training_Explained_(Side_Delts)_v_ZkxWzYnMc_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Gittts2/releases/tag/co-releases-v1-6249",
+  "files": [
+    {
+      "name": "How_To_Build_Capped_Shoulders_Optimal_Training_Explained_.Side_Delts._v_ZkxWzYnMc_1080p.mp4",
+      "url": "https://github.com/impboy12/Gittts2/releases/download/co-releases-v1-6249/How_To_Build_Capped_Shoulders_Optimal_Training_Explained_.Side_Delts._v_ZkxWzYnMc_1080p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Gittts2/releases/assets/450790372",
+      "id": 450790372,
+      "size": 91041348,
+      "download_count": 0
+    }
+  ]
+}
