@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3806",
+  "folder": "YouTube__watch_20260618022307_61e52c",
+  "base_name": "How_To_Do_Dumbbell_Rows_Build_a_Thicker_Back_With_Proper_Cheating_djKXLt7kv7Q_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Gittts2/releases/tag/co-releases-v1-3806",
+  "files": [
+    {
+      "name": "How_To_Do_Dumbbell_Rows_Build_a_Thicker_Back_With_Proper_Cheating_djKXLt7kv7Q_1080p.mp4",
+      "url": "https://github.com/impboy12/Gittts2/releases/download/co-releases-v1-3806/How_To_Do_Dumbbell_Rows_Build_a_Thicker_Back_With_Proper_Cheating_djKXLt7kv7Q_1080p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Gittts2/releases/assets/450793157",
+      "id": 450793157,
+      "size": 79512388,
+      "download_count": 0
+    }
+  ]
+}
