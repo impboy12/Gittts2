@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6050",
+  "folder": "YouTube__watch_20260618021556_e0d9ba",
+  "base_name": "How_To_Build_Huge_Triceps_with_Optimal_Training_Technique_popGXI-qs98_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Gittts2/releases/tag/co-releases-v1-6050",
+  "files": [
+    {
+      "name": "How_To_Build_Huge_Triceps_with_Optimal_Training_Technique_popGXI-qs98_1080p.mp4",
+      "url": "https://github.com/impboy12/Gittts2/releases/download/co-releases-v1-6050/How_To_Build_Huge_Triceps_with_Optimal_Training_Technique_popGXI-qs98_1080p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Gittts2/releases/assets/450788729",
+      "id": 450788729,
+      "size": 61899147,
+      "download_count": 0
+    }
+  ]
+}
