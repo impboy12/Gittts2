@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-9999",
+  "folder": "YouTube__watch_20260618022118_92b40a",
+  "base_name": "How_To_Build_Boulder_Rear_Delts_Optimal_Training_Explained_qfc70k40318_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Gittts2/releases/tag/co-releases-v1-9999",
+  "files": [
+    {
+      "name": "How_To_Build_Boulder_Rear_Delts_Optimal_Training_Explained_qfc70k40318_1080p.mp4",
+      "url": "https://github.com/impboy12/Gittts2/releases/download/co-releases-v1-9999/How_To_Build_Boulder_Rear_Delts_Optimal_Training_Explained_qfc70k40318_1080p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Gittts2/releases/assets/450791968",
+      "id": 450791968,
+      "size": 71195292,
+      "download_count": 0
+    }
+  ]
+}
