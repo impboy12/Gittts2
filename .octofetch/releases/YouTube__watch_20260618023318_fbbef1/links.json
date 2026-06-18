@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2816",
+  "folder": "YouTube__watch_20260618023318_fbbef1",
+  "base_name": "Sleep_Doctor_If_You_Wake_Up_At_3AM_DO_NOT_Do_This_pXlMKzcZlwM_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Gittts2/releases/tag/co-releases-v1-2816",
+  "files": [
+    {
+      "name": "Sleep_Doctor_If_You_Wake_Up_At_3AM_DO_NOT_Do_This_pXlMKzcZlwM_720p.mp4",
+      "url": "https://github.com/impboy12/Gittts2/releases/download/co-releases-v1-2816/Sleep_Doctor_If_You_Wake_Up_At_3AM_DO_NOT_Do_This_pXlMKzcZlwM_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Gittts2/releases/assets/450799728",
+      "id": 450799728,
+      "size": 575309058,
+      "download_count": 0
+    }
+  ]
+}
